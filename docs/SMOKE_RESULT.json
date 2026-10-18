@@ -1,0 +1,17 @@
+{
+  "outcome": "PASS",
+  "test": "localhost Typer CLI -> running FastAPI -> SQLite persistent DB",
+  "card_id": "e41b0071-76cc-51fe-a820-f2886e3d569d",
+  "board_id": "394bce22-4d80-535f-83cc-43f8bf7eac79",
+  "original_column_id": "c170477e-7ec7-5382-90b8-8ef2e4022666",
+  "final_column_id": "db112696-f6cc-59ae-abb2-40f6b8968158",
+  "activities": [
+    "plan",
+    "progress",
+    "result"
+  ],
+  "list_card_count": 1,
+  "original_database": "isolated temporary SQLite only",
+  "supabase_write": "not attempted",
+  "real_codex_session": "not executed"
+}

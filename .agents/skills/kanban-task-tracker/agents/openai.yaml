@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kanban Task Tracker"
+  short_description: "Track Codex work as saved Kanban cards"
+  default_prompt: "Record my current coding work in the real team Kanban board, verify the saved card, and only mark it complete after tests pass."
